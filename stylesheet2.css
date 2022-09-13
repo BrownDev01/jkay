@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding-top: 10px;
+    padding-bottom: 35px;
+    padding-left: 20px;
+    padding-right: 45px;
+    display: flex;
+    justify-content: space-between;
+
+}
+header ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 50px;
+}
+header ul li a{
+    text-decoration: none;
+    font-size: 15px;
+}
+#check{
+padding-left:40px ;
+padding-bottom: 50px;
+}
+#check h2{
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    font-size: 38px;
+}
+.main1{
+    height:250px;
+    margin-top:20px;
+    margin-bottom:200px;
+    margin-left: 50px;
+    border-radius: 15px;
+    padding-top: 100px;
+    padding-right: 150px;
+    padding-left: 50px;
+    width: 1050px;
+    background-color: #3b84eb;
+    display: flex;
+    justify-content: space-around;
+}
+ .main1 img{
+    height: 250px;
+    width: 250px;
+    border-radius: 4px ;
+    background-image: none;
+    
+}
+ p{
+    color: #fff;
+    padding-top: 2px;
+    padding-bottom: 0;
+    font-size: 16px;
+}
+footer {
+    background-color: #3b84eb;
+    margin-top: 10px;
+    padding-top: 25px;
+}
+   .target{
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+footer .last ul li{
+    list-style: none;
+    padding-bottom: 15px;
+}
+.last h4 {
+  padding-bottom: 15px; 
+}
+footer  .last ul li a{
+    text-decoration: none;
+ color: #000;   
+}
+#email{
+    height: 30px;
+    border-radius: 2px;
+    border: 1px solid white;
+    
+}
+
+.between{
+    display: flex;
+    justify-content: space-between;
+}
+.f ul{
+    display: flex;
+    justify-content:  space-around;
+}
+.f ul li{
+    list-style: none;
+    padding-right: 70px;
+}
+.f ul li a{
+    text-decoration: none;
+    color: #000;   
+}
+footer p{
+    text-decoration: none;
+    color: #000; 
+font-size: small;
+} .icons span {
+    padding-right: 50px;
+ } 
